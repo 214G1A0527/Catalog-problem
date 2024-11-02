@@ -1,0 +1,14 @@
+Results for Test Case 1:
+Outliers:
+x: 6, y: 39
+The secret is: 3
+The polynomial equation is:
+4x^2 + 3x + 3
+
+Results for Test Case 2:
+Outliers:
+x: 9, y: 117852986202006520000
+x: 10, y: 220003896831595300000
+The secret is: 79836264034304
+The polynomial equation is:
+995085094601491x^6 + 789282925852936x^5 + 659567478192512x^4 + 553707439920128x^3 + 406547360165888x^2 + 172370612740096x + 79836264034304
